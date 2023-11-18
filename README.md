@@ -1,1 +1,1 @@
-# electic_monster
+# This is just an example of MouseEffects.
